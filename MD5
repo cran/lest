@@ -1,0 +1,15 @@
+7661eb5baed3e3aa9d90f26b3f53451e *DESCRIPTION
+745967269ec3bc288b69e329abc9d330 *LICENSE
+c8f778f92aa0cead1e0a7160588ecd04 *NAMESPACE
+ae5b15aa60597c7b56497049556181b3 *R/case_when.R
+09a3a3eb7289542301c32913c0384f8b *R/if_else.R
+b4fe12876c37f8a22cde06e9701eecf0 *R/lest-package.R
+a276ff319615b3f2ecc3df06afad1e4a *R/utils.R
+75cab1699e78f6f40b87e1fbc59ec581 *README.md
+678c07f4d90b542e2cc8e5149e3e6e26 *man/case_when.Rd
+ac526ee481cb8465b06783bacaa9d5ea *man/if_else.Rd
+2fbb09097e3be3fac9667515a7ce4ef2 *man/lest-package.Rd
+7fc88a094ead1241cf6e015742da8c35 *tests/testthat.R
+eab9a4254991bd4f882339ac16d2cb57 *tests/testthat/integration_tests/test_case_when.R
+bb216550dc32a00f286295398b4dbeb9 *tests/testthat/test_case_when.R
+b0ed2c4ba15717aa1a196f35a910fd0b *tests/testthat/test_if_else.R
